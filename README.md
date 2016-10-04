@@ -1,3 +1,2 @@
 # colorful-flat
-Adaptive landing
-Still in progress
+Adaptive landing. Still in progress
